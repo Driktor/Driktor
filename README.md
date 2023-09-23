@@ -9,7 +9,7 @@
 - I have already programmed on these languages:
   - **BASIC** - _Yes, I am not a young boy..._
   - **HTML** - _Not a programming language, I know!_
-  - **Pascal** - _Believe me, it was at my Engineering undergraduate program._
+  - **Pascal** - _Believe me, it was into my Engineering undergraduate program._
   - **C** - _For curiosity..._
   - **Visual Basic** - _To enhance some Excel spreadsheets at work._
   - **Python** - _To enter the Data Science world!_
